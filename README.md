@@ -1,4 +1,4 @@
-# DocumentUnderstanding_Tutorial
+# DocumentUnderstanding_SampleProject 
 
 Developed with Marcelo Cruz's Document Understanding Full Tutorial video in mind
 
